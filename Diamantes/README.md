@@ -1,3 +1,6 @@
+# Análise de características físicas e preço de diamantes
+
+
 Este projeto tem como objetivo explorar um conjunto de dados de diamantes, identificar padrões relevantes e aplicar modelos de Machine Learning para prever o preço com base em características físicas e qualitativas.
 
 <img width="800" height="600" alt="Dados_disponíveis" src="https://github.com/user-attachments/assets/049dd033-1311-4a00-a5fe-74330b7854cc" />
@@ -21,6 +24,10 @@ Etapas do Projeto
     Forte relação positiva entre carat e price
     Quanto maior o diamante, maior tende a ser o preço
     Existe dispersão crescente → outros fatores também influenciam o preço
+<img width="640" height="480" alt="Preço_Peso" src="https://github.com/user-attachments/assets/28222623-ccb7-41a1-97ea-9a258bd31355" />
+<img width="640" height="480" alt="histograma" src="https://github.com/user-attachments/assets/1d7dd828-5237-43c3-84bd-df4c82c5a49f" />
+
+    
 
 3. Correlação entre variáveis
 
@@ -30,6 +37,9 @@ Etapas do Projeto
     Dimensões físicas (x, y, z) também têm alta correlação com o preço
     Variáveis como cut, color e clarity possuem menor correlação linear
     Alta correlação entre x, y e z (possível multicolinearidade)
+
+<img width="640" height="480" alt="heatmap" src="https://github.com/user-attachments/assets/2be7bdca-0b46-4091-aa2c-69e8f5986ab1" />
+
 
 4. Pré-processamento
     Conversão de variáveis categóricas (cut, color, clarity) para valores numéricos
