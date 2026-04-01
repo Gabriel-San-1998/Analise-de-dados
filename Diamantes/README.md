@@ -44,8 +44,11 @@ Etapas do Projeto
 4. Pré-processamento:
    
     Conversão de variáveis categóricas (cut, color, clarity) para valores numéricos
+   
     Normalização dos dados com preprocessing.scale
+
     Embaralhamento dos dados para evitar viés
+
     Separação entre variáveis independentes (X) e alvo (y)
 
 6. Modelagem
