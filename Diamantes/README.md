@@ -41,13 +41,14 @@ Etapas do Projeto
 <img width="640" height="480" alt="heatmap" src="https://github.com/user-attachments/assets/2be7bdca-0b46-4091-aa2c-69e8f5986ab1" />
 
 
-4. Pré-processamento
+4. Pré-processamento:
+   
     Conversão de variáveis categóricas (cut, color, clarity) para valores numéricos
     Normalização dos dados com preprocessing.scale
     Embaralhamento dos dados para evitar viés
     Separação entre variáveis independentes (X) e alvo (y)
 
-5. Modelagem
+6. Modelagem
 
   Foram testados modelos de regressão utilizando Support Vector Machines (SVR):
 
