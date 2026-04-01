@@ -1,5 +1,7 @@
 Este projeto tem como objetivo explorar um conjunto de dados de diamantes, identificar padrões relevantes e aplicar modelos de Machine Learning para prever o preço com base em características físicas e qualitativas.
 
+<img width="800" height="600" alt="Dados_disponíveis" src="https://github.com/user-attachments/assets/049dd033-1311-4a00-a5fe-74330b7854cc" />
+
 
 
 Etapas do Projeto
